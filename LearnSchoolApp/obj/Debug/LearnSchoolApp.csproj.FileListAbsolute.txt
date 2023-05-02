@@ -1,0 +1,114 @@
+D:\030_25\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe.config
+D:\030_25\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe
+D:\030_25\LearnSchoolApp\bin\Debug\LearnSchoolApp.pdb
+D:\030_25\LearnSchoolApp\obj\Debug\App.g.cs
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.cache
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.lref
+D:\030_25\LearnSchoolApp\obj\Debug\App.baml
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.g.resources
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.Properties.Resources.resources
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.GenerateResource.cache
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CoreCompileInputs.cache
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.exe
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.pdb
+D:\030_25\LearnSchoolApp\obj\Debug\UI\MainWindow.g.cs
+D:\030_25\LearnSchoolApp\obj\Debug\UI\MainWindow.baml
+D:\030_25\LearnSchoolApp\obj\Debug\UI\ServicesPage.g.cs
+D:\030_25\LearnSchoolApp\obj\Debug\UI\ServicesPage.baml
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.AssemblyReference.cache
+D:\030_25\LearnSchoolApp\obj\Debug\UCServices.g.cs
+D:\030_25\LearnSchoolApp\bin\Debug\EntityFramework.dll
+D:\030_25\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\030_25\LearnSchoolApp\bin\Debug\EntityFramework.xml
+D:\030_25\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\030_25\LearnSchoolApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\030_25\LearnSchoolApp\obj\Debug\UCServices.baml
+D:\030_25\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CopyComplete
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe.config
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\LearnSchoolApp.pdb
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\EntityFramework.dll
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\EntityFramework.xml
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\App.g.cs
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.cache
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.lref
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\App.baml
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.g.resources
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.Properties.Resources.resources
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.GenerateResource.cache
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CopyComplete
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.exe
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.pdb
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp_Content.g.cs
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\UI\UC\UCServices.g.cs
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\UI\Pgs\ServicesPage.g.cs
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\UI\UC\UCServices.baml
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\UI\Pgs\ServicesPage.baml
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\UI\Wnds\MnWnd.g.cs
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\UI\Wnds\MnWnd.baml
+C:\Users\igore\Downloads\Практика_Шимченко (новый)\Практика_Шимченко\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.AssemblyReference.cache
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe.config
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\LearnSchoolApp.pdb
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.dll
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.xml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\UC\UCServices.g.cs
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\ServicesPage.g.cs
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\MnWnd.g.cs
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\App.g.cs
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.cache
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.lref
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\App.baml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\UC\UCServices.baml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\ServicesPage.baml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\MnWnd.baml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.g.resources
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.Properties.Resources.resources
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.GenerateResource.cache
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CoreCompileInputs.cache
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.exe
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.pdb
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\EnterCodeWnd.g.cs
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\EnterCodeWnd.baml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.AssemblyReference.cache
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\AddEditServices.g.cs
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\AddEditServices.baml
+D:\030_25\ИзДому_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CopyComplete
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe.config
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\LearnSchoolApp.exe
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\LearnSchoolApp.pdb
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.dll
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.xml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\AddEditServices.g.cs
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\EnterCodeWnd.g.cs
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\UC\UCServices.g.cs
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\ServicesPage.g.cs
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\MnWnd.g.cs
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\App.g.cs
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.cache
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp_MarkupCompile.lref
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\App.baml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\AddEditServices.baml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\EnterCodeWnd.baml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\UC\UCServices.baml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Pgs\ServicesPage.baml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\UI\Wnds\MnWnd.baml
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.g.resources
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.Properties.Resources.resources
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.GenerateResource.cache
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.csproj.CopyComplete
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.exe
+C:\Users\igore\Downloads\ИзКолледжа_Шимченко_Практика\Практика_Шимченко\ИзДому_Шимченко_Практика\LearnSchoolApp\obj\Debug\LearnSchoolApp.pdb
